@@ -1,19 +1,10 @@
-layout: true
-class: compact
-background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
-background-size: cover
-name: slide2
 
-## Slide 2
+## Introduction to Vault and Dynamic Credentials
 
-Here's an example of incremental text (hit left to progress):
+- Vault is a secure secret management tool that provides a central place to store and manage sensitive data.
+- Key features of Vault include:
+  - Secure secret storage
+  - Dynamic secret generation
+  - Access control and auditing
 
-- List Item 1
---
-
-- List Item 2
---
-
-- List Item 3
-
-???
+- Dynamic credentials workflow: Vault generates temporary credentials on-demand.
